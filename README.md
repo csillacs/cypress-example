@@ -2,4 +2,8 @@ This is a small example project testing some features of the website: https://do
 By using Cypress
 
 
+Run the project: 
+
+npm run cy:open
+
 
